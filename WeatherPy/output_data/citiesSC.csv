@@ -1,0 +1,2 @@
+coord,weather,base,main,visibility,wind,snow,clouds,dt,sys,timezone,id,name,cod
+"{'lon': 37.62, 'lat': 55.75}","[{'id': 601, 'main': 'Snow', 'description': 'snow', 'icon': '13n'}]",stations,"{'temp': 272.75, 'feels_like': 269.29, 'temp_min': 272.04, 'temp_max': 273.15, 'pressure': 1028, 'humidity': 99}",7000,"{'speed': 2, 'deg': 140}",{'1h': 0.53},{'all': 90},1609688534,"{'type': 1, 'id': 9029, 'country': 'RU', 'sunrise': 1609653505, 'sunset': 1609679356}",10800,524901,Moscow,200
